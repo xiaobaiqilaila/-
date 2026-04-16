@@ -1,4 +1,4 @@
-//ÍêÈ«±³°ü 
+//å®Œå…¨èƒŒåŒ…
 #include<stdio.h>
 #include<stdlib.h>
 
