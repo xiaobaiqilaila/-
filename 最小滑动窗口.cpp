@@ -1,5 +1,6 @@
+//最小滑动窗口
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>  
 
 int main() {
 	int n,k;
