@@ -21,7 +21,8 @@ int main(){
 		ans=k-num[0]+n-1;
 	}
 	else if(k<num[0]){
-		ans=num[n-1]+n-1;
+		ans=num[n-1]-k+n-1;  
+ans=数值[n-1]+n-1;
 	}
 	else{
 		ans=num[n-1]-num[0]+n-1;
